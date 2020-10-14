@@ -1,3 +1,3 @@
 <?php
-$connect= mysqli_connect("localhost","root","","pondokit");
+$connect= mysqli_connect("localhost","root","","belajarlogin");
 ?>
